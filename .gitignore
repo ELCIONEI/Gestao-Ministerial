@@ -1,0 +1,18 @@
+﻿# Ambiente Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Segredos e credenciais
+.env
+setup_admin.json
+
+# Sistema e IDEs
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Dados brutos da migracao
+Tabelas/
