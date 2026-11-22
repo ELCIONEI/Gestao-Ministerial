@@ -30,7 +30,7 @@ O projeto foi migrado de uma arquitetura relacional (MySQL) para um **banco de d
 
 ### Banco de Dados em Grafos (Neo4j)
 
-![Banco de Dados Neo4j](docs/bd_completo)
+![Banco de Dados Neo4j](docs/bd_completo.png)
 
 ### Tela de Login
 
