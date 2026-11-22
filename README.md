@@ -28,6 +28,10 @@ O projeto foi migrado de uma arquitetura relacional (MySQL) para um **banco de d
 
 ## Capturas de Tela
 
+### Banco de Dados em Grafos (Neo4j)
+
+![Banco de Dados Neo4j](docs/bd_completo)
+
 ### Tela de Login
 
 ![Tela de Login](docs/01_login.png)
@@ -61,4 +65,3 @@ O projeto foi migrado de uma arquitetura relacional (MySQL) para um **banco de d
    git clone [https://github.com/ELCIONEI/Gestao-Ministerial.git](https://github.com/ELCIONEI/Gestao-Ministerial.git)
    cd Gestao-Ministerial
    ```
-
